@@ -1,0 +1,19 @@
+body{background-color:pink;}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: darkgrey;
+  border-width: 10px;
+  width: 10%;
+}
+
+img{
+  height: 60%;
+  width: 90%;
+}
+h1{
+  color:darkslategray;
+}
+h3{
+  color: darkslategray;
+}
